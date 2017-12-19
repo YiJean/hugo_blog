@@ -1,0 +1,29 @@
+[blogAlias]
+other = "的博客"
+
+[aboutHeader]
+other = "關於我"
+
+[home]
+other = "首頁"
+
+[prevPage]
+other = "前一頁"
+
+[nextPage]
+other = "後一頁"
+
+[flip]
+other = "翻轉"
+
+[clickToPopTagsAndCategories]
+other = "點擊彈出標籤和分類"
+
+[updateAt]
+other = "更新於"
+
+[returnHome]
+other = "返回首頁"
+
+[noTag]
+other = "暫無標籤"

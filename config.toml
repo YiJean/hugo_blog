@@ -1,0 +1,25 @@
+baseurl = "https://example.com"
+languageCode = "zh-TW"
+defaultContentLanguage = "zh"
+title = "My Dream"
+theme = "hugo-theme-dream"
+
+copyright = "Copyright (c) 2017, g1eny0ung; all rights reserved."
+
+# enableRobotsTXT = true
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+[params]
+  author = "Jean"
+  motto = "never give up"
+  description = "short"
+  avatar = "/img/luhan.jpg"
+  
+  email = "jean.chen8991@gmail.com"
+  github = "kylinfish"
+  linkedin = "win-yu-0537717b"
+  codepen = "somebody"
+  stackoverflow = "somebody"
